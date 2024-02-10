@@ -1,0 +1,40 @@
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.exe
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.deps.json
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.runtimeconfig.json
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.dll
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.pdb
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.Form1.resources
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.csproj.GenerateResource.cache
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.AssemblyInfoInputs.cache
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.AssemblyInfo.cs
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.csproj.CoreCompileInputs.cache
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.dll
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\refint\ProLab.dll
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.pdb
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.genruntimeconfig.cache
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ref\ProLab.dll
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.AdminPaneli.resources
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.Arac.resources
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.Kayıt_Formu.resources
+C:\Users\Ecemm\Desktop\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.KullaniciPaneli.resources
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.exe
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.deps.json
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.runtimeconfig.json
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.dll
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\bin\Debug\net6.0-windows\ProLab.pdb
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.AdminPaneli.resources
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.Arac.resources
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.Form1.resources
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.Kayıt_Formu.resources
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.KullaniciPaneli.resources
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.csproj.GenerateResource.cache
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.AssemblyInfoInputs.cache
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.AssemblyInfo.cs
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.dll
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\refint\ProLab.dll
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.pdb
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ProLab.genruntimeconfig.cache
+C:\Users\Mustafa Dizar\Desktop\prolab2\prolab2\prolab2\prolab2\ProLab\ProLab\obj\Debug\net6.0-windows\ref\ProLab.dll
